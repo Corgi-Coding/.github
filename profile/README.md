@@ -2,11 +2,11 @@
 
 欢迎来到柯基编码技术空间
 
-* 如果想看看我们的作用可以访问站点： http://corgicoding.top
-* 如果你有好的想法或者建议，可以通过以下方式：
+* 直接访问站点来看看我们的作品吧！ --> http://corgicoding.top
+* 如果你有好的想法或者建议，可以通过以下方式联系我们：
   * 在 [讨论区](https://github.com/orgs/Corgi-Coding/discussions) 和我们讨论
   * 发送邮件至 `corgicoding@foxmail.com`
-* 最后，诚心邀请你想成为我们的一员！
+* 诚心邀请你想成为我们的一员！
 
 ## 技术架构
 
