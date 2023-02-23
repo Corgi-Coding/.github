@@ -1,27 +1,22 @@
 # 柯基编码
 
-站点： http://corgicoding.top
+<div
+  style="
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    color: #4a4a4a;
+    font-size: 12px;
+  "
+>
+  <div style="display: flex; justify-content: center; margin: 20px 0">
+    <img src="./images/corgicoding-logo.png" style="height: 80px;" />
+  </div>
 
-## 欢迎
+  <div style="padding: 100px 0;"></div>
 
-欢迎来到柯基编码的技术空间，柯基编码建立于`2020年11月`，是一个致力于发展技术和提升团队内成员能力的组织。
+  <div style="display: flex; justify-content: center; margin: 20px 0">
+    <img src="./images/loading.gif" style="height: 60px" />
+  </div>
+</div>
 
-## 主要技术栈
-
-当前主要技术栈分为 前端/后端/测试/运维 四个分工
-
-### 前端
-
-前端主要用 `vite` + `vue3.x` 设立
-
-### 后端
-
-后端技术栈未 `nest` + `prisma`
-
-### 运维
-
-代码采用 git actions 自动部署，服务器托管于阿里云，前端采用 `nginx` 部署，后端使用 `pm2` 部署。
-
-### 测试
-
-测试主要包括单元测试/性能测试/e2e测试/组件测试，正在逐步覆盖全部工程。
