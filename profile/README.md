@@ -14,7 +14,7 @@
 
 - 前端使用 `vue3.x`
 - 后端使用 `nest.js`
-- 数据库使用 `mysql + prisma(orm)`
+- 数据库使用 `pgsql + prisma(orm)`
 - 测试工具为 `vitest` + `cypress`
 - 自动部署利用 `github actions`
 
